@@ -1,0 +1,22 @@
+
+
+Machine knows how to learn 
+
+
+1, perceptron  
+
+g++ -std=c++11 test_perceptron.cpp ../util/system.cpp -o test_perceptron && ./test_perceptron 
+
+2, kNN 
+g++ -std=c++11 test_knn.cpp ../util/system.cpp -o test_knn && ./test_knn
+
+
+3, naiveBayes 
+g++ -std=c++11 test_naivebayes.cpp ../util/system.cpp -o test_naivebayes && ./test_naivebayes
+
+
+
+
+
+
+
